@@ -1,0 +1,11 @@
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+\\192.168.100.100\ольшанка\To2(10)\Тихонович Анастасия\C#\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
